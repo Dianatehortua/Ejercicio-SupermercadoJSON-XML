@@ -1,0 +1,140 @@
+{
+    "Hiperdino": [{
+        "direccion": "Calle León y Castillo, 156",
+        "codigoPostal": 35500,
+        "coordenadas": "N 28° 58' 3.776''/O 13° 32' 47.915''",
+        "productos": [{
+            "Higiene y perfumeria": [
+              {
+                "producto": "Desodorante roll-on",
+                "marca": "Lactovit",
+                "informacion": "0% Alcohol",
+                "unidades": 1,
+                "fresco": false,
+                "formato": "envasado",
+                "cantidad": 50,
+                "unidadMedida": "ml",
+                "preciounidad": 2.25,
+                "perecedero": false,
+                "oferta": false,
+                "comprado": false
+              },
+              {
+                
+                "producto": "Acondicionador",
+                "marca": "Flex",
+                "informacion": "Para cabello seco",
+                "unidades": 1,
+                "fresco": false,
+                "formato": "envasado",
+                "cantidad": 650,
+                "unidadMedida": "ml",
+                "preciounidad": 3.45,
+                "perecedero": false,
+                "oferta": true,
+                "comprado": false
+              }],
+
+              "Bebidas": [
+                {
+                  "producto": "Bifrutas Mediterráneo",
+                  "marca": "Pascual",
+                  "informacion": "Sin azúcares añadidos",
+                  "unidades": 2,
+                  "fresco": false,
+                  "formato": "envasado",
+                  "cantidad": 1,
+                  "unidadMedida": "litro",
+                  "preciounidad": 2.08,
+                  "perecedero": true,
+                  "oferta": false,
+                  "comprado": false
+                },
+                {
+                  
+                  "producto": "Garrafa de agua",
+                  "marca": "Hiperdino",
+                  "informacion": "agua mineral manantial",
+                  "unidades": 3,
+                  "fresco": true,
+                  "formato": "envasado",
+                  "cantidad": 8,
+                  "unidadMedida": "litro",
+                  "preciounidad": 1.14,
+                  "perecedero": false,
+                  "oferta": true,
+                  "comprado": false
+                }]
+          }] 
+        }],
+
+        "Supermercado Eurospar": [{
+            "direccion": "Calle de Anotnio Armas Curbelo, 41",
+            "codigoPostal": 35500,
+            "coordenadas": "N 28° 57' 47.742''/O 13° 33' 10.176''",
+            "productos": [{
+                "Panaderia": [
+                  {
+                    "producto": "Pan de molde",
+                    "marca": "Spar",
+                    "informacion": "Familiar con corteza",
+                    "unidades": 1,
+                    "fresco": false,
+                    "formato": "envasado",
+                    "cantidad": 820,
+                    "unidadMedida": "gramos",
+                    "preciounidad": 1.25,
+                    "perecedero": true,
+                    "oferta": false,
+                    "comprado": false
+                  },
+                  {
+                    
+                    "producto": "Rosquillas",
+                    "marca": "Spar",
+                    "informacion": "Integrales",
+                    "unidades": 2,
+                    "fresco": false,
+                    "formato": "envasado",
+                    "cantidad": 250,
+                    "unidadMedida": "gramos",
+                    "preciounidad": 3.45,
+                    "perecedero": true,
+                    "oferta": false,
+                    "comprado": false
+                  }],
+    
+                  "Congelados": [
+                    {
+                      "producto": "Canelones Boloñesa",
+                      "marca": "Spar",
+                      "informacion": "Precocinado",
+                      "unidades": 1,
+                      "fresco": false,
+                      "formato": "envasado",
+                      "cantidad": 500,
+                      "unidadMedida": "gramos",
+                      "preciounidad": 2.35,
+                      "perecedero": true,
+                      "oferta": false,
+                      "comprado": false
+                    },
+                    {
+                      
+                      "producto": "Merluza Argentina",
+                      "marca": "Spar",
+                      "informacion": "en rodajas",
+                      "unidades": 1,
+                      "fresco": false,
+                      "formato": "envasado",
+                      "cantidad": 400,
+                      "unidadMedida": "gramos",
+                      "preciounidad": 3.25,
+                      "perecedero": true,
+                      "oferta": true,
+                      "comprado": false
+                    }]
+              }] 
+            }]
+    
+  }

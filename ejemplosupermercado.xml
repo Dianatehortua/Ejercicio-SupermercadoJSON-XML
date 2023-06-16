@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Mercadona>
+    <direccion>Calle Velázquez,2</direccion>
+    <codigoPostal>35500</codigoPostal>
+    <coordenadas>
+        <norte>28° 58' 1.26''</norte>
+        <sur></sur>
+        <este></este>
+        <oeste>13° 32' 52.433''</oeste>
+    </coordenadas>
+    <productos>
+        <Limpieza>
+            <producto>Desengrasante</producto>
+            <marca>Hacendado</marca>
+            <informacion>Cítrico</informacion>
+            <unidades>1</unidades>
+            <fresco>false</fresco>
+            <formato>envasado</formato>
+            <cantidad>650</cantidad>
+            <unidadMedida>ml</unidadMedida>
+            <preciounidad>1.75</preciounidad>
+            <perecedero>false</perecedero>
+            <oferta>false</Oferta>
+            <comprado>false</comprado>
+        </Limpieza>
+        <Lácteos>
+            <producto>Yogur</producto>
+            <marca>Hacendado</marca>
+            <informacion>Líquido Natural Azucarado</informacion>
+            <unidades>1</unidades>
+            <fresco>true</fresco>
+            <formato>envasado</formato>
+            <cantidad>1</cantidad>
+            <unidadMedida>litro</unidadMedida>
+            <preciounidad>1.55</preciounidad>
+            <perecedero>true</perecedero>
+            <oferta>false</Oferta>
+            <comprado>false</comprado>
+        </Lácteos>
+        <Fruteria>
+            <producto>Naranjas</producto>
+            <origen>Valencia</origen>
+            <informacion>Zumo</informacion>
+            <unidades>1</unidades>
+            <fresco>true</fresco>
+            <formato>malla</formato>
+            <cantidad>1</cantidad>
+            <unidadMedida>kg</unidadMedida>
+            <preciounidad>2.75</preciounidad>
+            <perecedero>true</perecedero>
+            <oferta>true</Oferta>
+            <comprado>false</comprado>
+        </Fruteria>
+    </productos>
+</Mercadona>
